@@ -1,0 +1,46 @@
+@media only screen and (max-width: 1200px){
+    .horizon1{
+        max-height: 768px;
+    }
+}
+@media only screen and (max-width: 992px){
+    .horizon1{
+        max-height: 500px;
+        margin-top: 40px;
+    }
+    .hor1_first{
+        font-size: 36px;
+        margin-top: 30px;
+    }
+}
+@media only screen and (max-width: 768px){
+    .hor1_first{
+        font-size: 30px;
+        padding-bottom: 30px;
+    }
+    .horizon1{
+        align-content: center;
+        justify-content: center;
+        text-align: center;
+        background-size:auto;
+    }
+    #hor1_btns{
+        max-height: 150px;
+    }
+}
+@media only screen and (max-width: 480px){
+    .hor1_first{
+        font-size: 14px;
+        padding-bottom: 15px;
+    }
+    .orange_button_bro{
+        padding-bottom: 3px;
+    }
+    .horizon1{
+        background-size:auto;
+        max-height: 400px;
+    }
+}
+@media only screen and (max-width: 320px){
+    
+}
